@@ -1,0 +1,59 @@
+body {  
+    background-color: #070132;
+    color: #fefefe;
+    font-family: 'Courier New', Courier, monospace;
+}
+.nav_bar {
+
+}
+.container {
+
+}
+.row {
+
+}
+.col-8 {
+
+}
+.col-4 {
+
+}
+.col-3.nav_logo {
+
+}
+.col-9 {
+
+}
+.nav_text {
+
+}
+.img_size {
+
+}
+.title_photo {
+    text-align: center;
+    
+}
+.my_photo{
+    background: url(../image/Meliodas.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 300px;
+    height: 300px;
+}
+.logo_photo{
+    background: url(../image/13691.upto100x100.png) no-repeat center center;
+    background-size: 100%;
+    width: 100px;
+    height: 100px;
+
+}
+.nav_new{
+    font-size: 30px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+.container{
+    margin-top: 30px;
+}
