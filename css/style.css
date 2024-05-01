@@ -57,3 +57,16 @@ body {
 .container{
     margin-top: 30px;
 }
+#myButton{
+    border: none;
+    border-radius: 15px;
+    width: 150px;
+    height: 50px;
+    background-color: chocolate;
+    color: #fefefe;
+    font-weight: bold;
+}
+#demo img{
+    margin-top: 20px;
+    width: 25%;
+}
